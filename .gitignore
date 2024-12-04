@@ -160,3 +160,4 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+Week_6_python_api_challenge/api_keys/api_keys_Berry.py
